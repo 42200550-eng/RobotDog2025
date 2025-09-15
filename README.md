@@ -258,12 +258,3 @@ This project is licensed under CC-BY License - see the original [repository](htt
 - ESP32 community for support and examples
 
 ---
-
-### 📞 Support
-
-Nếu gặp vấn đề, vui lòng:
-1. Kiểm tra [Issues](../../issues) 
-2. Đọc documentation
-3. Post question với detailed error logs
-
-**Happy Robotics! 🤖✨**
